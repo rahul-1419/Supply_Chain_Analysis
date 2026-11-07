@@ -163,31 +163,32 @@ Reduce operational, storage, and transportation costs while tracking profitabili
 
 Business Requirements
 
-↓  
+↓
 
 Raw Data Collection
 
-↓  
+↓
 
 Data Cleaning & Validation using Python
 
-↓  
+↓
 
 Exploratory Data Analysis
 
-↓  
+↓
 
 SQL-Based Business Analysis
 
-↓  
+↓
 
 Power BI Dashboard Development
 
-↓  
+↓
 
 Business Insights & Recommendations
 
 ---
+
 # 📊 Power BI Dashboard
 
 ## 🚚 Delivery Analysis Dashboard
@@ -221,9 +222,8 @@ Based on the analysis, the following recommendations were proposed:
 
 ## 👩‍💻 Author
 
-** Rahul Chaudhari**
+**Rahul Chaudhari**
 
 Aspiring Data Analyst
 
 **Skills:** Python | SQL | Power BI | Data Analysis | Data Visualization
-
